@@ -25,7 +25,7 @@ I have completed my graduation in 2021 from Subharti University🏛. I'm a passi
 ### Connect with me:
 <div>
 
- [<img align="left" alt="Sneha Kumari - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://www.facebook.com/profile.php?id=100007190169953)
+ [<img align="left" alt="Pawan Kumar - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://www.facebook.com/profile.php?id=100007190169953)
 
 [<img align="left" alt="Sneha Kumari  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/sneha_thakur_022)
 
